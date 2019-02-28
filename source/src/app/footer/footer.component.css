@@ -1,0 +1,9 @@
+.afoot {
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    font-size: 11;
+    height: 50px;
+    text-align: center;
+}

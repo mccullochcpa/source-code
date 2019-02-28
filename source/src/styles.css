@@ -1,7 +1,5 @@
 body {
-    font-family: 'Lato', sans-serif;
-    background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-3/background.jpg');
-    background-position: center fill;
-    background-size: cover;
-    margin: 0;
+  font-family: Copperplate, "Copperplate Gothic Light";
+  background-image: url("./assets/background.jpg");
+  background-position: center; 
 }
